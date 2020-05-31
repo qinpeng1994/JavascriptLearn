@@ -1,2 +1,2 @@
 # JavascriptLearn
-# 1、promise相关
+###  1、promise相关
