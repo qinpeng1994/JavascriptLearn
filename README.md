@@ -1,2 +1,2 @@
 # JavascriptLearn
-JS总结学习
+# 1、promise相关
