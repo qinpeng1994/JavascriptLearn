@@ -1,4 +1,4 @@
-# Javascript重要知识点总结  
+# Javascript 
 ##  1、promise相关    
      1）构造函数创建Promise对象,内部包含重写then、catch、finally方法   
       ### 注：handPromise.js文件   

@@ -4,6 +4,13 @@ const REJECTED = "REJECTED";
 const PENDING = "PENDING";
 // PromiseA+规范
 // promise与各种库，每个人写的promise不同
+/**
+ * 根据return new Promise()返回的值不同
+ * @param {*} promise2 
+ * @param {*} x 
+ * @param {*} resolve 
+ * @param {*} reject 
+ */
 const resolvePromise = (promise2, x, resolve, reject) => {
     let called  // 解决小细节问题，别人的promise可能会出现问题
     // 1、循环引用。自己等待自己，错误实现
