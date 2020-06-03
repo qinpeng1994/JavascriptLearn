@@ -4,7 +4,7 @@
       ###  注：handPromise.js文件   
 -------------  
 ##  2、封装ajax    
-1）从最初的XMLRequestHTML对象-到封装ajax函数-二次封装axios-fetch   
+    1）从最初的XMLRequestHTML对象-到封装ajax函数-二次封装axios-fetch   
      ###  注：ajax-axios-fetch文件中以webpack搭建   
 -------------   
 ##  3、算法与数据结构    
